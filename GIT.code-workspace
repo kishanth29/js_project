@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "D:/GIT"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js_project"
+	}
+}
